@@ -38,3 +38,15 @@ Ensures that the homepage loads quickly even if you have hundreds of pages.
 > Only loading the code for the page you request also means that pages become isolated. If a certain page throws an error, the rest of the app would still work
 
 In a prod build of Next.jsm, whenever `Link` components appear in the browser's viewport, Next.js automatically `prefetches` the code for the linked page in the background. By the time you click the link, the code for the destination page will already be loaded in the background, and the page transition will be near-instant!
+
+# Assets, Metadata and CSS
+
+1. Assets
+2. Metadeta
+3. 3rd Party JavaScript
+4. CSS Styling
+5. Layout Component
+6. Global Styles
+7. Polishing Layout
+8. Styling Tips
+
